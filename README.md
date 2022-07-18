@@ -2,7 +2,9 @@
 Ecommerce Customer - Churn Analysis
 
 Ivan Triandjono Putra
+
 Dendi Mahawarman
+
 Aqilah Aini Zahra
 
 Dataset Source : https://www.kaggle.com/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction
