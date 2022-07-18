@@ -1,6 +1,10 @@
 # EpsilonPartyTeam_JC_DS_VL_05_FinalProject
 Ecommerce Customer - Churn Analysis
 
+Ivan Triandjono Putra
+Dendi Mahawarman
+Aqilah Aini Zahra
+
 Dataset Source : https://www.kaggle.com/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction
 
 Contents Flowchart Program :
@@ -133,11 +137,7 @@ Hal-hal yang dapat dilakukan untuk mengembangkan model agar lebih baik lagi, sep
 5. Selanjutnya kedepan dari model ini dapat dijadikan sebagai dasar pengembangan untuk model lainnya seperti model untuk mengklasifikasikan jenis pelanggan terhadap barang yang diminati dan jumlah transaksinya. Model tersebut bermanfaat sebagai dasar perencanaan biaya marketing strategy agar dapat optimal terhadap peningkatan pendapatan perusahaan dari transaksi oleh pelanggan.
 
 Adapun sebagai upaya untuk menjaga agar pelanggan tidak Churn, strategi yang dapat dilakukan oleh perusahaan yaitu:
-1. Memberikan promo diskon / cashback. Pemberian promo berupa diskon atau cashback mampu memberikan ketertarikan pelanggan agar terus berlangganan dan bertransaksi, namun langkah ini juga harus dianalisis lebih dalam untuk jumlah dan periode waktunya karena dapat berdampak buruk juga jika perusahaan terlalu berlebihan dalam melakukannya.
-2. Meningkatkan dukungan konsumen. Ketika customer mendapatkan dukungan dan arahan penuh dari perusahaan, maka customer lebih mungkin untuk tidak melakukan churn. Misalnya seperti dukungan via telepon, text, video tutorial, in-app customer service, atau blog yang membantu. Dukungan ini memberikan kesan perlindungan lebih terhadap customer dari berpindah ke kompetitor.
-3. Monitor Kompetitor. Analisis kompetitor dan lihat kembali layanan mana yang bisa ditingkatkan lebih baik dari kompetitor.
-4. Memperhatikan feedback. Perhatikan feedback yang didapat dari customer baik yang positif maupun negatif.
-5. Menambahkan layanan promosi via mobile phone. Pergunakan promosi via mobile phone karena customer yang churn maupun tidak lebih banyak login menggunakan mobile phone.
-6. Meningkatkan Layanan Tambahan. 2 Bulan pertama merupakan masa paling krusial untuk menjaga customer tetap loyal. Hal ini karena pengguna cenderung churn pada 2 bulan pertama penggunaan. Sehingga untuk mengantisipasi hal tersebut, lebih baik customer diberikan layanan tambahan, seperti UX yang baik, hadiah untuk pembelian pertama, ataupun pemberian diskon eksklusif untuk pelanggan pertama.
-7. Segmentasi pengguna. Kebutuhan customer perempuan dan laki-laki bisa jadi berbeda. Kebutuhan customer awal dan customer yang bertahan lebih lama tentu berbeda. Oleh karena itu bentuk segmentasi customer sehingga perusahaan dapat memberikan targeted ads khusus untuk pengguna sesuai segmentasinya. Berikan promosi menarik ketika pengguna meraih milestone tertentu, misal bertahan 10 bulan dapat diberikan hadiah gratis ongkos kirim barang.
-8. Bangun Komunitas. Pada data diatas, pengguna Churn lebih banyak membeli mobile phone. Oleh karena itu lebih baik membuat komunitas di sosial media untuk saling terkoneksi dengan pelanggan lainnya yang membeli produk mobile phone di e-commerce. Hal ini akan mendorong testimonial, update terbaru tentang gadget, dan mendorong customer untuk tidak merasa sendiri. Bentuk lain dari membentuk komunitas mungkin dapat menggunakan membership.
+1. **Membuat Membership Khusus untuk Tenure yang lama**. Membuat tingkatan membership terhadap konsumen seperti *silver, gold, platinum* sehingga konsumen yang loyal mendapat poin lebih dan akan merasa menjadi bagian dari layanan. Ini juga memudahkan perusahaan untuk memberikan diskon, promo, dan *privilege* khusus terhadap konsumen yang loyal atau yang memiliki Tenure yang tinggi.
+2. **Memberikan Reward/Hadiah kepada kostumer yang memiliki Tenure yang lama**. Dalam setiap bertransaksi konsumen dapat diberikan poin yang bisa ditukar dengan hadiah bisa berupa barang, kupon, atau penawaran istimewa lainnya. Hal ini berguna untuk menstimulasi kostumer terus menerus bertransaksi menggunakan layanan.
+3. **Memberikan promo diskon / cashback kepada Costumer yang menggunakan App Lebih lama**. Pemberian promo berupa diskon atau cashback mampu memberikan ketertarikan pelanggan agar terus berlangganan dan bertransaksi, langkah ini juga harus dianalisis lebih dalam. Dalam kasus ini, pengguna aplikasi yang lebih lama cenderung loyal sehingga sangat layak untuk diberikan promo.
+4. **Memperhatikan Complain dari kostumer**. Ketika customer mendapatkan dukungan dan arahan penuh dari perusahaan, maka customer lebih mungkin untuk tidak melakukan churn. Misalnya seperti dukungan via telepon, text, video tutorial, in-app customer service, atau blog yang membantu. Dukungan ini memberikan kesan perlindungan dan perhatian lebih terhadap customer sehingga mencegah costumer berpindah ke kompetitor.   
