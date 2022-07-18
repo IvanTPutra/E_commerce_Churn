@@ -1,4 +1,3 @@
-# EpsilonPartyTeam_JC_DS_VL_05_FinalProject
 Ecommerce Customer - Churn Analysis
 
 Ivan Triandjono Putra
